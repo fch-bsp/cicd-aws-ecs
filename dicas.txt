@@ -1,0 +1,6 @@
+1 criação de uma Policy - PolicyGitHub-cicd
+
+2 criação de um user IAM - GITHUB-ACTIONS-LAB
+
+
+
