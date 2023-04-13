@@ -4,5 +4,8 @@
 
 3 secrets and variables /actions - adiciona AWS_ACCESS_KEY_ID - AWS_SECRET_ACCESS_KEY
 
+4 criando meu docker para fazer push no AWS ECR
+
+5 criação da task e importação do JSON --> .GITHUB/workflow/github-policy.json
 
 
