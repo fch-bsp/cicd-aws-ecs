@@ -9,7 +9,7 @@ env:
   ECR_REPOSITORY: lab-github
   ECS_SERVICE: Service-GitHub-CiCd
   ECS_CLUSTER: ecs-cluster 
-  ECS_TASK_DEFINITION: .github/workflow/task.json
+  ECS_TASK_DEFINITION: .github/workflows/task.json
   CONTAINER_NAME: docker-lab-cicd
 
 permissions:
