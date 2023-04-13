@@ -8,7 +8,7 @@
 
 5 criação da task e importação do JSON --> .GITHUB/workflow/github-policy.json
 
-6 alteração na actions pipeline.yaml 
+6 alteração na actions pipeline.yaml tetse 
 
 env:
   AWS_REGION: 
