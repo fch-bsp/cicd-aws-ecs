@@ -8,4 +8,22 @@
 
 5 criação da task e importação do JSON --> .GITHUB/workflow/github-policy.json
 
+6 alteração na actions pipeline.yaml 
+
+env:
+  AWS_REGION: 
+  ECR_REPOSITORY: 
+  ECS_SERVICE: 
+  ECS_CLUSTER: 
+  ECS_TASK_DEFINITION:
+  CONTAINER_NAME: 
+
+
+
+  https://www.youtube.com/watch?v=Tp3_de57CJ8
+
+https://www.youtube.com/watch?v=JdUaqP5iQG4
+
+
+
 

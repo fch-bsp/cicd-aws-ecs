@@ -5,8 +5,8 @@ on:
     branches: [ "main" ]
 
 env:
-  AWS_REGION: 
-  ECR_REPOSITORY: 
+  AWS_REGION: us-esat-2
+  ECR_REPOSITORY: lab-github
   ECS_SERVICE: 
   ECS_CLUSTER: 
   ECS_TASK_DEFINITION:
