@@ -2,5 +2,7 @@
 
 2 criação de um user IAM - GITHUB-ACTIONS-LAB
 
+3 secrets and variables /actions - adiciona AWS_ACCESS_KEY_ID - AWS_SECRET_ACCESS_KEY
+
 
 
